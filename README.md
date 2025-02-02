@@ -1,5 +1,5 @@
 ## Hi there 👋
-I am a VLSI Student.
+I am a VLSI Student at VIT Chennai. I am pursing M.Tech Degree.
 <!--
 **preetamr-2001/preetamr-2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
